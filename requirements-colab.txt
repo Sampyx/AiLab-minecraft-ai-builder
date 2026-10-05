@@ -1,0 +1,6 @@
+numpy
+trimesh
+Pillow
+open_clip_torch
+torch
+torchvision
