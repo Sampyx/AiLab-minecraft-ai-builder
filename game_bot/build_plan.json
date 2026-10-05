@@ -1,0 +1,5 @@
+[
+  {"x": 0, "y": 0, "z": 0, "block": "stone"},
+  {"x": 0, "y": 1, "z": 0, "block": "gold_block"},
+  {"x": 0, "y": 2, "z": 0, "block": "diamond_block"}
+]
